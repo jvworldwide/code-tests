@@ -1,2 +1,2 @@
 # code-tests
-Various Interview Code Tests
+Practice for various interview code tests
