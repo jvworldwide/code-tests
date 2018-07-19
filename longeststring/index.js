@@ -21,7 +21,7 @@
 //     }, 0);
 // }
 
-// ADVANCED SOLUTION - (note I think this sucks as an advance solution because of the nested if statements)
+// ADVANCED SOLUTION
 // function findLongestWord(str){
 //     str = str.split(' ');
 
