@@ -1,0 +1,4 @@
+- Create function literal
+- Create varible from input
+- Sort to Even
+- Multiply by 2
