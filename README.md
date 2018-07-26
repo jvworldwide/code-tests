@@ -1,6 +1,7 @@
 # code-tests
-## Practice for various interview code tests in javascript
+## Various interview code tests in javascript
 
+* Double Evens
 * Palindrome
 * Reverse String
 * Reverse Integer
