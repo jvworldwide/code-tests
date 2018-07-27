@@ -1,4 +1,3 @@
-- Create function literal
-- Create varible from input
-- Sort to Even
-- Multiply by 2
+# Double Evens
+
+Started by creating a function literal doubleEvens. The created inputArray varible from input.  Created filtered varible and sorted to even, then created multiply varible and times by two.  Exported as module.
